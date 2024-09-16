@@ -1,5 +1,5 @@
 ## Hello! I'm **asbp!** <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-I'm an programmer by trade and a bathroom singer. I'm into back-end but also I can do front-end as well.  I can make your imaginary idea into an useful apps. 
+I'm an programmer by trade. I can make your imaginary idea into an useful apps. 
 
 ## 📈 Github Stats
 <a href="https://github.com/asbp/asbp">
